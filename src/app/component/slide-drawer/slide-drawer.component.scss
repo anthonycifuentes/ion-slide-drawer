@@ -8,7 +8,12 @@
             height: 88px;
             border-top-right-radius: 8px;
             border-top-left-radius: 8px;
+            ion-icon {
+                font-size: 60px;
+                height: 20px;
+                display: flex;
+                margin: 0 auto;
+            }
         }
-        // backdrop-filter: saturate(180%) blur(20px);
     }
 }
