@@ -3,6 +3,7 @@
     height: 100%;
     position: absolute;
     top: calc(100vh - 144px);
+    z-index: 9999;
     ion-header {
         ion-toolbar {
             height: 88px;
