@@ -26,6 +26,10 @@ $ npx cap add android
 $ npx cap open android
 ```
 
+### Live demo
+
+https://ion-slide-drawer.web.app/
+
 License
 ----
 
