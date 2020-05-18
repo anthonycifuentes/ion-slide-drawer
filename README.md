@@ -5,7 +5,7 @@ Custom slide drawer component developed with IONIC v5 gesture controller.
 ### Tech
 
 * Ionic v5
-* Angular v8
+* Angular v9
 
 ### Installation
 
