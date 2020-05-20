@@ -32,7 +32,8 @@ https://ion-slide-drawer.now.sh/
 
 ### Deploy
 [![Deploy to Vercel](/button)](/import/project?template=https://github.com/AnthonyCifuentes/ion-slide-drawer)
-License
+
+### License
 ----
 
 MIT
