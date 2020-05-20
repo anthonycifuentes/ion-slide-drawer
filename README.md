@@ -28,8 +28,10 @@ $ npx cap open android
 
 ### Live demo
 
-https://ion-slide-drawer.web.app/
+https://ion-slide-drawer.now.sh/
 
+### Deploy
+[![Deploy to Vercel](/button)](/import/project?template=https://github.com/AnthonyCifuentes/ion-slide-drawer)
 License
 ----
 
